@@ -59,6 +59,19 @@
 
 ---
 
+<h2 align="center">Competitive Programming Profiles</h2>
+<p align="center">
+  <a href="https://codeforces.com/profile/Realm_Chandan" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/realm" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Realm_Chandan" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://github.com/chandanSahoo-cs" target="_blank">
@@ -72,20 +85,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">Competitive Programming Profiles</h2>
-<p align="center">
-  <a href="https://codeforces.com/profile/Realm_Chandan" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/realm" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Realm_Chandan" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img 
