@@ -86,3 +86,12 @@
     <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img 
+    src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786&height=150&fontColor=FFFFFF" 
+    alt="Footer" 
+    width="100%" 
+    align="left" 
+  />
+</a>
