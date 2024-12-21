@@ -1,0 +1,37 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate README content
+        run: |
+          echo "# Hi there, I'm Chandan Sahoo! 👋" > README.md
+          echo "" >> README.md
+          echo "Welcome to my GitHub profile! Here's what I’m working on:" >> README.md
+          echo "- 🌱 Currently learning new technologies and frameworks." >> README.md
+          echo "- 🚀 Building projects like [LMS](#), [Detoxify](#), and more." >> README.md
+          echo "- 📫 How to reach me: [Email](mailto:your_email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)" >> README.md
+          echo "" >> README.md
+          echo "![Profile Views](https://komarev.com/ghpvc/?username=chandanSahoo-cs&style=flat-square&color=blue)" >> README.md
+          echo "" >> README.md
+          echo "### GitHub Stats" >> README.md
+          echo "![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandanSahoo-cs&show_icons=true&theme=radical)" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README content"
+          git push
