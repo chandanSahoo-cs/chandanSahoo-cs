@@ -45,12 +45,10 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🏆 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandanSahoo-cs&theme=onedark&column=3" alt="GitHub Trophies" />
 </p>
-
-<h2 align="center">📊 Contribution Stats</h2>
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=chandanSahoo-cs&theme=github-dark-dimmed&custom_title=Chandan%20Activity%20Graph&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanSahoo-cs&theme=github-dark-dimmed&custom_title=Chandan%20Activity%20Graph&hide_border=true" alt="Chandan's Activity Graph" />
