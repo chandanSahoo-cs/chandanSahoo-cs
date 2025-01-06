@@ -6,7 +6,7 @@ neofetch
                          .     .                           |-Uptime:..........%%AGE%%
                          .:-++***+:===+#                   |-CPU:.............Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory:..........Optimized for Code
-                    .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host:............India, Delhi
+                    .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host:............Delhi, India
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel:..........BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-Running:.........code.exe
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories:....%%REPO_COUNT%%
