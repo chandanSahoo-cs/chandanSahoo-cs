@@ -2,18 +2,18 @@
 neofetch
                                                            
                                                            Chandan Sahoo:-----------------------------------
-                            Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
-                         .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
-                      .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
-                    .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
-                   *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: 13
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: 13
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: 8
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: null
-                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: Mon Jan 6 12:23:55 2025 +0000
+                            Chandan Sahoo                  |-OS:..............Arch Linux
+                         .     .                           |-Uptime:..........19 Years, 2 Months, 3 Days
+                         .:-++***+:===+#                   |-CPU:.............Overclocked Human Brain v2.5 GHz
+                      .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory:..........Optimized for Code
+                    .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host:............India, Delhi
+                   *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel:..........BTech Ungergrad
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-Running:.........code.exe
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories:....13
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars:...........13
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers:.......8
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions:...null
+                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:.....Mon Jan 6 18:03:29 2025 +0530
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
                   ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
@@ -22,13 +22,13 @@ neofetch
                   .=+=-:. .      .  .  .  .:+              |-Git, Docker
                   :=+==-:.          :=-=+==-+               
                    =++==-:.         ::=**#==+              Contact:-------------------------------------------
-                  -:+++-=--:.   :==-----=#+=               |-Email: .........chandansahoo02468@gmail.com
-                  :-+**+++==--::-.. . ::++#                |-LinkedIn: ......linkedin.com/in/chandansahoo-cs
-                   :-+####**+==-.. .-=-:-*                 |-GitHub: ........github.com/chandanSahoo-cs
-                . .:-=+*####**+-     ::.=*                 |-Discord: .......chandansahoo 
+                  -:+++-=--:.   :==-----=#+=               |-Email: ..........chandansahoo02468@gmail.com
+                  :-+**+++==--::-.. . ::++#                |-LinkedIn: .......linkedin.com/in/chandansahoo-cs
+                   :-+####**+==-.. .-=-:-*                 |-GitHub: .........github.com/chandanSahoo-cs
+                . .:-=+*####**+-     ::.=*                 |-Discord: ........chandansahoo 
                   ..:-==+*####*++--.  .:                   
-                    ::--==++*****+=:  .   .                
-          .  .       ..:--====++===                         
-                     .  ..:--:::::             .            
-                     .    ....  
+                    ::--==++*****+=:  .   .                Profiles:------------------------------------------
+          .  .       ..:--====++===                        |-Codeforces:......Realmchan
+                     .  ..:--:::::             .           |-Codechef:........realm 
+                     .    ....                             |-Leetcode:........realmchan    
 ```
