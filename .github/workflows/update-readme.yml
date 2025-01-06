@@ -54,21 +54,13 @@ jobs:
         }
         ')
 
-        # Replace the placeholders in README.md
-        sed -i "s/%Repositories%/$REPO_COUNT/" README.md
-        sed -i "s/%Stars%/$STARS_COUNT/" README.md
-        sed -i "s/%Followers%/$FOLLOWERS/" README.md
-        sed -i "s/%Contributions%/$CONTRIBUTIONS/" README.md
-        sed -i "s/%Last Commit%/$LAST_COMMIT_DATE/" README.md
-        sed -i "s/%Age%/$AGE/" README.md
-
-        # Re-insert the placeholders for the next workflow run
-        sed -i "s/$REPO_COUNT/%Repositories%/" README.md
-        sed -i "s/$STARS_COUNT/%Stars%/" README.md
-        sed -i "s/$FOLLOWERS/%Followers%/" README.md
-        sed -i "s/$CONTRIBUTIONS/%Contributions%/" README.md
-        sed -i "s/$LAST_COMMIT_DATE/%Last Commit%/" README.md
-        sed -i "s/$AGE/%Age%/" README.md
+        # Directly replace the values in the README.md file at specific positions
+        sed -i "s|%-Repositories%|$REPO_COUNT|g" README.md
+        sed -i "s|%-Stars%|$STARS_COUNT|g" README.md
+        sed -i "s|%-Followers%|$FOLLOWERS|g" README.md
+        sed -i "s|%-Contributions%|$CONTRIBUTIONS|g" README.md
+        sed -i "s|%-Last Commit%|$LAST_COMMIT_DATE|g" README.md
+        sed -i "s|%-Age%|$AGE|g" README.md
 
     - name: Commit changes to README.md
       run: |
