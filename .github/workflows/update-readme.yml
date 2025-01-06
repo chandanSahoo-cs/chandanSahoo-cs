@@ -23,7 +23,7 @@ jobs:
       run: |
         # Get repository count, stars, and followers
         REPO_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
-        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
+        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs/repos | jq 'map(.stargazers_count) | add')
         FOLLOWERS=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .followers)
 
         # Get contributions count
