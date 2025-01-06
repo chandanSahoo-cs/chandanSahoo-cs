@@ -1,0 +1,52 @@
+name: Update README with GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Manually trigger the action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install jq
+
+    - name: Fetch GitHub data
+      run: |
+        # Get repository count, stars, and followers
+        REPO_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
+        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)  # For stars, adjust if needed
+        FOLLOWERS=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .followers)
+
+        # Get contributions count (this might need to be adjusted if it's a different endpoint)
+        CONTRIBUTIONS=$(curl -s https://api.github.com/repos/chandanSahoo-cs/REPOSITORY_NAME | jq .contributions)
+
+        # Get last commit date
+        LAST_COMMIT_DATE=$(git log -1 --format=%cd)
+
+        # Calculate age (replace with actual birth date)
+        BIRTH_DATE="1998-01-01"
+        AGE_YEARS=$(date -d $BIRTH_DATE +%Y)
+        AGE_MONTHS=$(date -d $BIRTH_DATE +%m)
+        AGE_DAYS=$(date -d $BIRTH_DATE +%d)
+
+        # Replace placeholders in README.md
+        sed -i "s/%Repositories%/$REPO_COUNT/" README.md
+        sed -i "s/%Stars%/$STARS_COUNT/" README.md
+        sed -i "s/%Followers%/$FOLLOWERS/" README.md
+        sed -i "s/%Contributions%/$CONTRIBUTIONS/" README.md
+        sed -i "s/%Last Commit%/$LAST_COMMIT_DATE/" README.md
+        sed -i "s/%Age%/$AGE_YEARS Years, $AGE_MONTHS Months, $AGE_DAYS Days/" README.md
+
+    - name: Commit changes to README.md
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update README with GitHub stats"
+        git push
