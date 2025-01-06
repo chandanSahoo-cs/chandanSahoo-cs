@@ -54,15 +54,7 @@ jobs:
         }
         ')
 
-        # Replace the values in README.md by first replacing the backup placeholders
-        sed -i "s|<!-- REPO_COUNT -->|$REPO_COUNT|g" README.md
-        sed -i "s|<!-- STARS_COUNT -->|$STARS_COUNT|g" README.md
-        sed -i "s|<!-- FOLLOWERS -->|$FOLLOWERS|g" README.md
-        sed -i "s|<!-- CONTRIBUTIONS -->|$CONTRIBUTIONS|g" README.md
-        sed -i "s|<!-- LAST_COMMIT_DATE -->|$LAST_COMMIT_DATE|g" README.md
-        sed -i "s|<!-- AGE -->|$AGE|g" README.md
-
-        # Now, replace the visible placeholders with updated data
+        # Replace the values in README.md without removing the markers
         sed -i "s|%%REPO_COUNT%%|$REPO_COUNT|g" README.md
         sed -i "s|%%STARS_COUNT%%|$STARS_COUNT|g" README.md
         sed -i "s|%%FOLLOWERS%%|$FOLLOWERS|g" README.md
