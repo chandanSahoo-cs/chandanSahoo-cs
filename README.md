@@ -1,6 +1,6 @@
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: %Age%
+                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
