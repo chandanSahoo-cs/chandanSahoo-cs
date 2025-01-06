@@ -2,8 +2,8 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:  # Manually trigger the action
+    - cron: '0 0 * * *'  # This will run once per day
+  workflow_dispatch:  # This allows you to manually trigger the action
 
 jobs:
   update-readme:
@@ -20,16 +20,16 @@ jobs:
       run: |
         # Get repository count, stars, and followers
         REPO_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
-        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)  # For stars, adjust if needed
+        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
         FOLLOWERS=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .followers)
 
-        # Get contributions count (this might need to be adjusted if it's a different endpoint)
-        CONTRIBUTIONS=$(curl -s https://api.github.com/repos/chandanSahoo-cs/REPOSITORY_NAME | jq .contributions)
+        # Get contributions count
+        CONTRIBUTIONS=$(curl -s https://api.github.com/repos/chandanSahoo-cs | jq .contributions)
 
         # Get last commit date
         LAST_COMMIT_DATE=$(git log -1 --format=%cd)
 
-         # BIRTH_DATE and calculate age in years, months, days
+        # BIRTH_DATE and calculate age in years, months, days
         BIRTH_DATE="2005-11-03"
         TODAY=$(date +%Y-%m-%d)
 
@@ -54,13 +54,21 @@ jobs:
         }
         ')
 
-        # Replace placeholders in README.md
+        # Replace the placeholders in README.md
         sed -i "s/%Repositories%/$REPO_COUNT/" README.md
         sed -i "s/%Stars%/$STARS_COUNT/" README.md
         sed -i "s/%Followers%/$FOLLOWERS/" README.md
         sed -i "s/%Contributions%/$CONTRIBUTIONS/" README.md
         sed -i "s/%Last Commit%/$LAST_COMMIT_DATE/" README.md
         sed -i "s/%Age%/$AGE/" README.md
+
+        # Re-insert the placeholders for the next workflow run
+        sed -i "s/$REPO_COUNT/%Repositories%/" README.md
+        sed -i "s/$STARS_COUNT/%Stars%/" README.md
+        sed -i "s/$FOLLOWERS/%Followers%/" README.md
+        sed -i "s/$CONTRIBUTIONS/%Contributions%/" README.md
+        sed -i "s/$LAST_COMMIT_DATE/%Last Commit%/" README.md
+        sed -i "s/$AGE/%Age%/" README.md
 
     - name: Commit changes to README.md
       run: |
