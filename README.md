@@ -3,17 +3,17 @@ neofetch
                                                            
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: %%AGE%% <!-- AGE -->
+                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days 19 Years, 2 Months, 3 Days
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %%REPO_COUNT%% <!-- REPO_COUNT -->
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %%STARS_COUNT%% <!-- STARS_COUNT -->
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %%FOLLOWERS%% <!-- FOLLOWERS -->
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: %%CONTRIBUTIONS%% <!-- CONTRIBUTIONS -->
-                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: %%LAST_COMMIT_DATE%% <!-- LAST_COMMIT_DATE -->
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: 13 13
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: 13 13
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: 8 8
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: null null
+                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: Mon Jan 6 17:31:52 2025 +0530 Mon Jan 6 17:31:52 2025 +0530
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
                   ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
