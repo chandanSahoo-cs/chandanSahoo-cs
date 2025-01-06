@@ -1,3 +1,6 @@
+```ruby
+neofetch
+                                                           
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
                          .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
@@ -28,3 +31,4 @@
           .  .       ..:--====++===                         
                      .  ..:--:::::             .            
                      .    ....  
+```
