@@ -3,17 +3,17 @@ neofetch
                                                            
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
+                         .     .                           |-Uptime: <AGE>
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: 13
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: 13
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: 8
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions:  null
-                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:Mon Jan 6 17:14:50 2025 +0530
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: <REPO_COUNT>
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: <STARS_COUNT>
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: <FOLLOWERS>
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions:  <CONTRIBUTIONS>
+                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:<LAST_COMMIT_DATE>
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
                   ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
