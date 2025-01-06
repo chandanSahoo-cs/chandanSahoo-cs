@@ -7,7 +7,7 @@
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %Repositories%
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %Stars%
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %Repositories%
                    %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %Followers%
                    %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: %Contributions%
                    %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: Mon Jan 6 15:33:19 2025 +0530
@@ -19,7 +19,7 @@
                   .=+=-:. .      .  .  .  .:+              |-Git, Docker
                   :=+==-:.          :=-=+==-+               
                    =++==-:.         ::=**#==+              Contact:-------------------------------------------
-                  -:+++-=--:.   :==-----=#+=               |-Email: .........chandansahoo02468@gmail.com
+                  -:+++-=--:.   :==-----=#+=               |-Email: .........chandansahoo0246%Followers%@gmail.com
                   :-+**+++==--::-.. . ::++#                |-LinkedIn: ......linkedin.com/in/chandansahoo-cs
                    :-+####**+==-.. .-=-:-*                 |-GitHub: ........github.com/chandanSahoo-cs
                 . .:-=+*####**+-     ::.=*                 |-Discord: .......chandansahoo 
