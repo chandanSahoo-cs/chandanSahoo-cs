@@ -54,13 +54,13 @@ jobs:
         }
         ')
 
-        # Directly replace the values in the README.md file at specific positions
-        sed -i "s|%-Repositories%|$REPO_COUNT|g" README.md
-        sed -i "s|%-Stars%|$STARS_COUNT|g" README.md
-        sed -i "s|%-Followers%|$FOLLOWERS|g" README.md
-        sed -i "s|%-Contributions%|$CONTRIBUTIONS|g" README.md
-        sed -i "s|%-Last Commit%|$LAST_COMMIT_DATE|g" README.md
-        sed -i "s|%-Age%|$AGE|g" README.md
+        # Replace the values in README.md without removing markers
+        sed -i "s|REPO_COUNT|$REPO_COUNT|g" README.md
+        sed -i "s|STARS_COUNT|$STARS_COUNT|g" README.md
+        sed -i "s|FOLLOWERS|$FOLLOWERS|g" README.md
+        sed -i "s|CONTRIBUTIONS|$CONTRIBUTIONS|g" README.md
+        sed -i "s|LAST_COMMIT_DATE|$LAST_COMMIT_DATE|g" README.md
+        sed -i "s|AGE|$AGE|g" README.md
 
     - name: Commit changes to README.md
       run: |
