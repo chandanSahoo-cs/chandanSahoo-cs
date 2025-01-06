@@ -1,16 +1,16 @@
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: %Age%
+                         .     .                           |-Uptime: %-Age%
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %Repositories%
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %Repositories%
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %Followers%
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: %Contributions%
-                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: Mon Jan 6 15:33:19 2025 +0530
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %-Repositories%
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %-Stars%
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %-Followers%
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions:  %-Contributions%
+                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:%-Last Commit%
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
                   ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
@@ -19,7 +19,7 @@
                   .=+=-:. .      .  .  .  .:+              |-Git, Docker
                   :=+==-:.          :=-=+==-+               
                    =++==-:.         ::=**#==+              Contact:-------------------------------------------
-                  -:+++-=--:.   :==-----=#+=               |-Email: .........chandansahoo0246%Followers%@gmail.com
+                  -:+++-=--:.   :==-----=#+=               |-Email: .........chandansahoo02468@gmail.com
                   :-+**+++==--::-.. . ::++#                |-LinkedIn: ......linkedin.com/in/chandansahoo-cs
                    :-+####**+==-.. .-=-:-*                 |-GitHub: ........github.com/chandanSahoo-cs
                 . .:-=+*####**+-     ::.=*                 |-Discord: .......chandansahoo 
