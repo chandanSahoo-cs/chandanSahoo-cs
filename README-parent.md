@@ -16,16 +16,16 @@ neofetch
                    %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:.....%%LAST_COMMIT_DATE%%
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
-                  ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
-                .--.---:..      ..  .  .  =+:%             |-Dev: ............Node.js, React, Express, 
-              .    -----:.  .  .           +#              |-DB: .............MongoDB, Prisma
+                  ::=--:.      :=+==-....=##%%#            |-Languages:.......Javascript, C++
+                .--.---:..      ..  .  .  =+:%             |-Dev:.............Node.js, React, Express, 
+              .    -----:.  .  .           +#              |-DB:..............MongoDB, Prisma
                   .=+=-:. .      .  .  .  .:+              |-Git, Docker
                   :=+==-:.          :=-=+==-+               
                    =++==-:.         ::=**#==+              Contact:-------------------------------------------
-                  -:+++-=--:.   :==-----=#+=               |-Email: ..........chandansahoo02468@gmail.com
-                  :-+**+++==--::-.. . ::++#                |-LinkedIn: .......linkedin.com/in/chandansahoo-cs
-                   :-+####**+==-.. .-=-:-*                 |-GitHub: .........github.com/chandanSahoo-cs
-                . .:-=+*####**+-     ::.=*                 |-Discord: ........chandansahoo 
+                  -:+++-=--:.   :==-----=#+=               |-Email:...........chandansahoo02468@gmail.com
+                  :-+**+++==--::-.. . ::++#                |-LinkedIn:........linkedin.com/in/chandansahoo-cs
+                   :-+####**+==-.. .-=-:-*                 |-GitHub:..........github.com/chandanSahoo-cs
+                . .:-=+*####**+-     ::.=*                 |-Discord:.........chandansahoo 
                   ..:-==+*####*++--.  .:                   
                     ::--==++*****+=:  .   .                Profiles:------------------------------------------
           .  .       ..:--====++===                        |-Codeforces:......Realmchan
