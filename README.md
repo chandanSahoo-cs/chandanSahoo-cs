@@ -3,17 +3,17 @@ neofetch
                                                            
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
+                         .     .                           |-Uptime: %%AGE%% <!-- AGE -->
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: 13
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: 13
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: 8
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions:  null
-                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit:Mon Jan 6 17:26:08 2025 +0530
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %%REPO_COUNT%% <!-- REPO_COUNT -->
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %%STARS_COUNT%% <!-- STARS_COUNT -->
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %%FOLLOWERS%% <!-- FOLLOWERS -->
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: %%CONTRIBUTIONS%% <!-- CONTRIBUTIONS -->
+                   %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: %%LAST_COMMIT_DATE%% <!-- LAST_COMMIT_DATE -->
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
                   ::=--:.      :=+==-....=##%%#            |-Languages: ......Javascript, C++
