@@ -1,15 +1,15 @@
                                                            Chandan Sahoo:-----------------------------------
                             Chandan Sahoo                  |-OS: Arch Linux
-                         .     .                           |-Uptime: 19 Years, 2 Months, 3 Days
+                         .     .                           |-Uptime: %Age%
                          .:-++***+:===+#                   |-CPU: Overclocked Human Brain v2.5 GHz
                       .=-:+*#%%%%%%%%%%%%%%%%%             |-Memory: Optimized for Code
                     .=*%%%%%%%%%%%%%%%%%%%%%%%%%           |-Host: India, Delhi
                    *#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        |-Kernel: BTech Ungergrad
                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       |-GitHub ID: chandanSahoo-cs
-                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: 13
-                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: 13
-                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: 8
-                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: null
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     |-Repositories: %Repositories%
+                   %%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#     |-Stars: %Stars%
+                   %%%%%%*=-=+*###%##%%%%%%%%%%%%%%%%%     |-Followers: %Followers%
+                   %%##-----==+++*#%%%%%%%%%%%%%%%%%%%     |-Contributions: %Contributions%
                    %#*=--:---::-++**##%%%%%%%%%%%%%%%      |-Last Commit: Mon Jan 6 15:33:19 2025 +0530
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%        
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%         Skills:-------------------------------------------- 
