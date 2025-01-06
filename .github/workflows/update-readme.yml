@@ -16,6 +16,9 @@ jobs:
     - name: Install jq
       run: sudo apt-get install jq
 
+    - name: Copy README-parent.md to README.md
+      run: cp README-parent.md README.md
+
     - name: Fetch GitHub data
       run: |
         # Get repository count, stars, and followers
@@ -54,7 +57,7 @@ jobs:
         }
         ')
 
-        # Replace the values in README.md without removing the markers
+        # Replace the placeholders in README.md with actual values
         sed -i "s|%%REPO_COUNT%%|$REPO_COUNT|g" README.md
         sed -i "s|%%STARS_COUNT%%|$STARS_COUNT|g" README.md
         sed -i "s|%%FOLLOWERS%%|$FOLLOWERS|g" README.md
