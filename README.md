@@ -16,13 +16,13 @@ neofetch
                    %%##-----==+++*#%%%%%%%%%%%%%%%%%%%         |-Stars:...........2
                    %#*=--:---::-++**##%%%%%%%%%%%%%%%          |-Followers:.......9
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%           |-Contributions:...null
-               .:  :+-:::. . .=-#+..#*--:*%%%%%%%%             |-Last Commit:.....Sat Jan 11 19:06:58 2025 +0530
+               .:  :+-:::. . .=-#+..#*--:*%%%%%%%%             |-Last Commit:.....Sat Jan 11 19:09:00 2025 +0530
                   ::=--:.      :=+==-....=##%%#            
                 .--.---:..      ..  .  .  =+:%                 |-Languages:.......Javascript,Typescript, C++
               .    -----:.  .  .           +#                  |-Dev:.............Node.js, React, Express, 
                   .=+=-:. .      .  .  .  .:+                  |-DB:..............MongoDB, PostgresSQL
-                  :=+==-:.          :=-=+==-+                  |-Tools:...........Git, Docker, Cloudflare,npm, firebase, appwrite
-                   =++==-:.         ::=**#==+              
+                  :=+==-:.          :=-=+==-+                  |-Tools:...........Git, Docker, Cloudflare,
+                   =++==-:.         ::=**#==+                   ..................npm, firebase, appwrite                     
                   -:+++-=--:.   :==-----=#+=                   Contact
                   :-+**+++==--::-.. . ::++#                    |-Email:...........chandansahoo02468@gmail.com
                    :-+####**+==-.. .-=-:-*                     |-LinkedIn:........linkedin.com/in/chandansahoo-cs
