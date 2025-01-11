@@ -21,8 +21,8 @@ neofetch
                 .--.---:..      ..  .  .  =+:%                 |-Languages:.......Javascript,Typescript, C++
               .    -----:.  .  .           +#                  |-Dev:.............Node.js, React, Express, 
                   .=+=-:. .      .  .  .  .:+                  |-DB:..............MongoDB, PostgresSQL
-                  :=+==-:.          :=-=+==-+                  |-Tools:...........Git, Docker, Cloudflare,npm, firebase, appwrite
-                   =++==-:.         ::=**#==+              
+                  :=+==-:.          :=-=+==-+                  |-Tools:...........Git, Docker, Cloudflare,
+                   =++==-:.         ::=**#==+                   ..................npm, firebase, appwrite                     
                   -:+++-=--:.   :==-----=#+=                   Contact
                   :-+**+++==--::-.. . ::++#                    |-Email:...........chandansahoo02468@gmail.com
                    :-+####**+==-.. .-=-:-*                     |-LinkedIn:........linkedin.com/in/chandansahoo-cs
