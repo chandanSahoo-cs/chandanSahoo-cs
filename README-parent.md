@@ -18,10 +18,10 @@ neofetch
                    ##+--:::.:-=+-.-+***+==*%%%%%%%%%           |-Contributions:...%%CONTRIBUTIONS%%
                .:  :+-:::. . .=-#+..#*--:*%%%%%%%%             |-Last Commit:.....%%LAST_COMMIT_DATE%%
                   ::=--:.      :=+==-....=##%%#            
-                .--.---:..      ..  .  .  =+:%                 |-Languages:.......Javascript, C++
+                .--.---:..      ..  .  .  =+:%                 |-Languages:.......Javascript,Typescript, C++
               .    -----:.  .  .           +#                  |-Dev:.............Node.js, React, Express, 
                   .=+=-:. .      .  .  .  .:+                  |-DB:..............MongoDB, PostgresSQL
-                  :=+==-:.          :=-=+==-+                  |-Git, Docker
+                  :=+==-:.          :=-=+==-+                  |-Tools:...........Git, Docker, Cloudflare,npm, firebase, appwrite
                    =++==-:.         ::=**#==+              
                   -:+++-=--:.   :==-----=#+=                   Contact
                   :-+**+++==--::-.. . ::++#                    |-Email:...........chandansahoo02468@gmail.com
@@ -36,6 +36,7 @@ neofetch
                      .    ....                      
 
 ```
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.webp?cid=790b7611s2kpzrigutejdeaeo466h37lb77gqglywej6ys82&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 **Contact:**  
