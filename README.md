@@ -50,14 +50,14 @@ So you want to see my profile? I've done the job of running the `neofetch` comma
  
 Chandan Sahoo:-----------------------------------------------
 |- OS: Arch Linux
-|- Uptime: 19 Years, 4 Months, 16 Days
+|- Uptime: 19 Years, 4 Months, 17 Days
 |- Host: Delhi, India
 |- Kernel: BTech Undergrad
 |- Repositories: 17
 |- Stars: 3
-|- Followers: 8
+|- Followers: 9
 |- Contributions: null
-|- Last Commit: Tue Mar 18 00:36:42 2025 +0000
+|- Last Commit: Wed Mar 19 00:37:00 2025 +0000
 |- Languages: JavaScript, TypeScript, C++
 |- Dev: Node.js, React, Express
 |- DB: MongoDB, PostgreSQL
@@ -75,9 +75,9 @@ Chandan Sahoo:-----------------------------------------------
 ```
 Repositories:    17
 Stars:           3
-Followers:       8
+Followers:       9
 Contributions:   null
-Last Commit:     Tue Mar 18 00:36:42 2025 +0000
+Last Commit:     Wed Mar 19 00:37:00 2025 +0000
 ```
 
 ## 📫 Connect With Me
