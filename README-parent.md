@@ -2,10 +2,10 @@
 # Welcome to My GitHub Terminal
 >_ whoami
 ```
-
-### 👨‍💻 **Chandan Sahoo**
+```bash
+Chandan Sahoo
 I'm a passionate developer, problem solver, and tech enthusiast. Always exploring, always building.
-
+```
 ```bash
 >_ neofetch --stats
 ```
