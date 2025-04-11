@@ -2,23 +2,23 @@
 # Welcome to My GitHub Terminal
 >_ whoami
 ```
-
-### 👨‍💻 **Chandan Sahoo**
+```bash
+Chandan Sahoo
 I'm a passionate developer, problem solver, and tech enthusiast. Always exploring, always building.
-
+```
 ```bash
 >_ neofetch --stats
 ```
 ```
 OS: Arch Linux
-Uptime: 19 Years, 5 Months, 7 Days
+Uptime: 19 Years, 5 Months, 8 Days
 Location: Delhi, India
 Kernel: BTech Undergrad
 Repositories: 20
 Stars: 3
 Followers: 11
 Contributions: null
-Last Commit: Wed Apr 9 00:37:43 2025 +0000
+Last Commit: Thu Apr 10 21:43:43 2025 +0530
 Languages: JavaScript, TypeScript, C++
 Tech Stack: Node.js, React, Express, MongoDB, PostgreSQL
 Tools: Git, Docker, Cloudflare, Firebase, Appwrite
