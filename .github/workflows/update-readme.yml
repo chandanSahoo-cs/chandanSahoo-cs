@@ -22,12 +22,12 @@ jobs:
     - name: Fetch GitHub data
       run: |
         # Get repository count, stars, and followers
-        REPO_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
-        STARS_COUNT=$(curl -s https://api.github.com/users/chandanSahoo-cs/repos | jq 'map(.stargazers_count) | add')
-        FOLLOWERS=$(curl -s https://api.github.com/users/chandanSahoo-cs | jq .followers)
+        REPO_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
+        STARS_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs/repos | jq 'map(.stargazers_count) | add')
+        FOLLOWERS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .followers)
 
         # Get contributions count
-        CONTRIBUTIONS=$(curl -s https://api.github.com/repos/chandanSahoo-cs | jq .contributions)
+        CONTRIBUTIONS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/repos/chandanSahoo-cs | jq .contributions)
 
         # Get last commit date
         LAST_COMMIT_DATE=$(git log -1 --format=%cd)
