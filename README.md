@@ -11,14 +11,14 @@ I'm a passionate developer, problem solver, and tech enthusiast. Always explorin
 ```
 ```
 OS: Arch Linux
-Uptime: 19 Years, 9 Months, 19 Days
+Uptime: 19 Years, 9 Months, 20 Days
 Location: Delhi, India
 Kernel: BTech Undergrad
 Repositories: 33
 Stars: 4
 Followers: 13
 Contributions: null
-Last Commit: Thu Aug 21 00:37:56 2025 +0000
+Last Commit: Fri Aug 22 00:39:12 2025 +0000
 Languages: JavaScript, TypeScript, C++
 Tech Stack: Node.js, React, Express, MongoDB, PostgreSQL
 Tools: Git, Docker, Cloudflare, Firebase, Appwrite
