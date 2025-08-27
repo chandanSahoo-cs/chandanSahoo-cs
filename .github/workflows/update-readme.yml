@@ -16,8 +16,8 @@ jobs:
     - name: Install jq
       run: sudo apt-get install jq
 
-    - name: Copy README-parent.md to README.md
-      run: cp README-parent.md README.md
+    - name: Copy README-card.md to README.md
+      run: cp README-card.md README.md
 
     # - name: Fetch GitHub data
     #   run: |
