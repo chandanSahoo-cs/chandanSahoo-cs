@@ -19,51 +19,51 @@ jobs:
     - name: Copy README-parent.md to README.md
       run: cp README-parent.md README.md
 
-    - name: Fetch GitHub data
-      run: |
-        # Get repository count, stars, and followers
-        REPO_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
-        STARS_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs/repos | jq 'map(.stargazers_count) | add')
-        FOLLOWERS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .followers)
+    # - name: Fetch GitHub data
+    #   run: |
+    #     # Get repository count, stars, and followers
+    #     REPO_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .public_repos)
+    #     STARS_COUNT=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs/repos | jq 'map(.stargazers_count) | add')
+    #     FOLLOWERS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/users/chandanSahoo-cs | jq .followers)
 
-        # Get contributions count
-        CONTRIBUTIONS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/repos/chandanSahoo-cs | jq .contributions)
+    #     # Get contributions count
+    #     CONTRIBUTIONS=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/repos/chandanSahoo-cs | jq .contributions)
 
-        # Get last commit date
-        LAST_COMMIT_DATE=$(git log -1 --format=%cd)
+    #     # Get last commit date
+    #     LAST_COMMIT_DATE=$(git log -1 --format=%cd)
 
-        # BIRTH_DATE and calculate age in years, months, days
-        BIRTH_DATE="2005-11-03"
-        TODAY=$(date +%Y-%m-%d)
+    #     # BIRTH_DATE and calculate age in years, months, days
+    #     BIRTH_DATE="2005-11-03"
+    #     TODAY=$(date +%Y-%m-%d)
 
-        # Calculate the difference in years, months, days
-        AGE=$(echo | awk -v start="$BIRTH_DATE" -v end="$TODAY" '
-        BEGIN {
-            split(start, s, "-");
-            split(end, e, "-");
-            years = e[1] - s[1];
-            months = e[2] - s[2];
-            days = e[3] - s[3];
+    #     # Calculate the difference in years, months, days
+    #     AGE=$(echo | awk -v start="$BIRTH_DATE" -v end="$TODAY" '
+    #     BEGIN {
+    #         split(start, s, "-");
+    #         split(end, e, "-");
+    #         years = e[1] - s[1];
+    #         months = e[2] - s[2];
+    #         days = e[3] - s[3];
             
-            if (days < 0) {
-                days += 30;
-                months -= 1;
-            }
-            if (months < 0) {
-                months += 12;
-                years -= 1;
-            }
-            print years " Years, " months " Months, " days " Days";
-        }
-        ')
+    #         if (days < 0) {
+    #             days += 30;
+    #             months -= 1;
+    #         }
+    #         if (months < 0) {
+    #             months += 12;
+    #             years -= 1;
+    #         }
+    #         print years " Years, " months " Months, " days " Days";
+    #     }
+    #     ')
 
-        # Replace the placeholders in README.md with actual values
-        sed -i "s|%%REPO_COUNT%%|$REPO_COUNT|g" README.md
-        sed -i "s|%%STARS_COUNT%%|$STARS_COUNT|g" README.md
-        sed -i "s|%%FOLLOWERS%%|$FOLLOWERS|g" README.md
-        sed -i "s|%%CONTRIBUTIONS%%|$CONTRIBUTIONS|g" README.md
-        sed -i "s|%%LAST_COMMIT_DATE%%|$LAST_COMMIT_DATE|g" README.md
-        sed -i "s|%%AGE%%|$AGE|g" README.md
+    #     # Replace the placeholders in README.md with actual values
+    #     sed -i "s|%%REPO_COUNT%%|$REPO_COUNT|g" README.md
+    #     sed -i "s|%%STARS_COUNT%%|$STARS_COUNT|g" README.md
+    #     sed -i "s|%%FOLLOWERS%%|$FOLLOWERS|g" README.md
+    #     sed -i "s|%%CONTRIBUTIONS%%|$CONTRIBUTIONS|g" README.md
+    #     sed -i "s|%%LAST_COMMIT_DATE%%|$LAST_COMMIT_DATE|g" README.md
+    #     sed -i "s|%%AGE%%|$AGE|g" README.md
 
     - name: Commit changes to README.md
       run: |
