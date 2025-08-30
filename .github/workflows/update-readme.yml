@@ -2,7 +2,7 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This will run once per day
+    - cron: '0 0 1 1 *'  # This will run once per day
   workflow_dispatch:  # This allows you to manually trigger the action
 
 jobs:
