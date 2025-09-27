@@ -1,5 +1,4 @@
-![please reload. Sorry!](https://readme-card-server-05r4.onrender.com/card)
-![Hello](https://readme-card-server-05r4.onrender.com/card)
+![please reload. Sorry!](https://readme-card-server-05r4.onrender.com/api/card)
 
 ```bash
 >_ git log --links
