@@ -1,4 +1,4 @@
-![please reload. Sorry!](https://187da64d-github-readme-card.chandansahoo02468.workers.dev/api/card)
+![please reload. Sorry!](https://github-readme-card.chandansahoo02468.workers.dev/api/card)
 
 ```bash
 >_ git log --links
