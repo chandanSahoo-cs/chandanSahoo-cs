@@ -1,3 +1,4 @@
+![Daily updates](https://img.shields.io/badge/updates-every_few_minutes-blue?style=for-the-badge)
 ![please reload. Sorry!](https://readme-card-server-05r4.onrender.com/card)
 
 ```bash
