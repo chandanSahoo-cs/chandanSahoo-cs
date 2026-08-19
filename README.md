@@ -10,6 +10,8 @@
 
 [![email](/assests/badges/email-badge.svg)](mailto:chandansahoo02468@gmail.com)
 [![linkedin](/assests/badges/linkedin-badge.svg)](https://linkedin.com/in/chandansahoo-cs)
-[![github](/assests/badges/github-badge.svg)](https://github.com/chandanSahoo-cs)
+<a href="https://github.com/chandanSahoo-cs" target="_blank" rel="noopener noreferrer">
+  <img src="assets/badges/github-badge.svg" alt="github" />
+</a>
 
 [![discord](/assests/badges/discord-badge.svg)](https://discord.com/users/chandansahoo)
