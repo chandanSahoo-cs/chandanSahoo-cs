@@ -1,18 +1,15 @@
 ![please reload. Sorry!](https://readme-card-server-05r4.onrender.com/card)
 
-```bash
->_ git log --links
-```
-**Competitive Programming:**
+![competitive-programming](/assests/commands/competitive-programming.svg)
 
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Realmchan-0088CC?style=for-the-badge&logo=codeforces&logoColor=0088CC)](https://codeforces.com/profile/Realmchan)  
-[![Codechef Badge](https://img.shields.io/badge/Codechef-realm-e27a41?style=for-the-badge&logo=codechef&logoColor=e27a41)](https://www.codechef.com/users/realm)  
-[![Leetcode Badge](https://img.shields.io/badge/Leetcode-realmchan-FFA500?style=for-the-badge&logo=leetcode&logoColor=FFA500)](https://leetcode.com/realmchan)
+[![Codeforces](/assests/badges/codeforces-badge.svg)](https://codeforces.com/profile/Realmchan)
+[![CodeChef](/assests/badges/codechef-badge.svg)](https://www.codechef.com/users/realm)
+[![LeetCode](/assests/badges/leetcode-badge.svg)](https://leetcode.com/realmchan)
 
-**Connect With Me:**
+![connect wiht me](/assests/commands/connect-with-me.svg)
 
-[![Email Badge](https://img.shields.io/badge/Email-chandansahoo02468%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chandansahoo02468@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-chandansahoo--cs-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/chandansahoo-cs)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-chandanSahoo--cs-4C1D4A?style=for-the-badge&logo=github&logoColor=4C1D4A)](https://github.com/chandanSahoo-cs)  
-[![Discord Badge](https://img.shields.io/badge/Discord-chandansahoo-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/chandansahoo)
+[![email](/assests/badges/email-badge.svg)](mailto:chandansahoo02468@gmail.com)
+[![linkedin](/assests/badges/linkedin-badge.svg)](https://linkedin.com/in/chandansahoo-cs)
+[![github](/assests/badges/github-badge.svg)](https://github.com/chandanSahoo-cs)
+[![discord](/assests/badges/discord-badge.svg)](https://discord.com/users/chandansahoo)
 
