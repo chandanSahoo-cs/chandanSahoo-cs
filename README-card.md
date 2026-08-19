@@ -11,5 +11,6 @@
 [![email](/assests/badges/email-badge.svg)](mailto:chandansahoo02468@gmail.com)
 [![linkedin](/assests/badges/linkedin-badge.svg)](https://linkedin.com/in/chandansahoo-cs)
 [![github](/assests/badges/github-badge.svg)](https://github.com/chandanSahoo-cs)
+
 [![discord](/assests/badges/discord-badge.svg)](https://discord.com/users/chandansahoo)
 
